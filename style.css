@@ -1,0 +1,11 @@
+body, html {
+  all: unset;
+}
+
+#canvas {
+    z-index: -1;
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    color: rgb(87, 69, 254);
+}
